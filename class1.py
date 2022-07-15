@@ -45,7 +45,21 @@
 #     func(x)    
 
 
+#  class A:
+#     def __init__(self):
+#         print("constructor of class a")
+#     def method1(self):
+#         print("method 1 of clss a")    
 
+# class B:
+
+#     def __init__(self):
+#         self.obj_a=A()
+#         print("construcor of class b")
+
+#     def method1 (self):
+#         self.obj_a.method1()
+#         print("method 1 of class b")  
 
 
 
